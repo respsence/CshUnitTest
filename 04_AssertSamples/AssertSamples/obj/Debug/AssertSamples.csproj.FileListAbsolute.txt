@@ -1,0 +1,5 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\04_AssertSamples\AssertSamples\bin\Debug\AssertSamples.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\04_AssertSamples\AssertSamples\bin\Debug\AssertSamples.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\04_AssertSamples\AssertSamples\obj\Debug\AssertSamples.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\04_AssertSamples\AssertSamples\obj\Debug\AssertSamples.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\04_AssertSamples\AssertSamples\obj\Debug\AssertSamples.pdb
