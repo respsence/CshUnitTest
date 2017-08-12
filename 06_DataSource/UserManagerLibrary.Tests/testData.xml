@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDetails>
+  <User userid="Dmitriy" telephone="+38 000 123 23 42" email="dmitriy@mail.ru"/>
+  <User userid="Iva" telephone="+38 000 123 23 42" email="ivan@mail.ru"/>
+  <User userid="Petro" telephone="+38 000 123 23 42" email="p@cbsarea.com"/>
+  <User userid="Roman" telephone="+38 000 123 23 42"  email="romancbsarea.com"/>
+  <User userid="Nikolay" telephone="+38 000 123 23 42" email="nikolay@test.com"/>
+</UserDetails>

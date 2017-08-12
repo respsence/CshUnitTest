@@ -1,0 +1,4 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary\bin\Debug\UserManagerLibrary.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary\obj\Debug\UserManagerLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\testData.xml
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.Tests.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\bin\Debug\UserManagerLibrary.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\06_DataSource\UserManagerLibrary.Tests\obj\Debug\UserManagerLibrary.Tests.pdb
