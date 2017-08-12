@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="01_AssertMethods.cs" />
+    <Compile Include="02_CollectionAssertMethods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
