@@ -1,0 +1,6 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\bin\Debug\TestContextSamples.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\05_TestContextSamples\TestContextSamples\obj\Debug\TestContextSamples.pdb
