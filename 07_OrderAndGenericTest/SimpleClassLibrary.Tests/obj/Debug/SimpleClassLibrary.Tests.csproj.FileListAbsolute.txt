@@ -1,0 +1,9 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\SimpleClassLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\SimpleClassLibrary.Tests.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\SimpleClassLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\SimpleClassLibrary.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\obj\Debug\SimpleClassLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\obj\Debug\SimpleClassLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\obj\Debug\SimpleClassLibrary.Tests.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary.Tests\bin\Debug\OrderedTestExample.orderedtest
