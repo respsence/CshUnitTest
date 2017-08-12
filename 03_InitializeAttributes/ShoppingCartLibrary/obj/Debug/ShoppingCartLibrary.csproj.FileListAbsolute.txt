@@ -1,0 +1,5 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShoppingCartLibrary\bin\Debug\ShoppingCartLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShoppingCartLibrary\bin\Debug\ShoppingCartLibrary.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShoppingCartLibrary\obj\Debug\ShoppingCartLibrary.pdb

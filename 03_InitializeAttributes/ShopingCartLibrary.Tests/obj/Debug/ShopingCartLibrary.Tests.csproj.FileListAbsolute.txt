@@ -1,0 +1,8 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShopingCartLibrary.Tests.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\bin\Debug\ShoppingCartLibrary.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\03_InitializeAttributes\ShopingCartLibrary.Tests\obj\Debug\ShopingCartLibrary.Tests.pdb
