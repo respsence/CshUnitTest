@@ -51,6 +51,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="01_TestInitAndCleanUp.cs" />
+    <Compile Include="02_TestClassInitAndCleanup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
