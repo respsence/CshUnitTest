@@ -1,0 +1,5 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration\bin\Debug\UserRegistration.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration\bin\Debug\UserRegistration.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration\obj\Debug\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration\obj\Debug\UserRegistration.pdb

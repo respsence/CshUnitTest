@@ -1,0 +1,8 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\bin\Debug\UserRegistration.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\bin\Debug\UserRegistration.Tests.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\bin\Debug\UserRegistration.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\bin\Debug\UserRegistration.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\obj\Debug\UserRegistration.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\obj\Debug\UserRegistration.Tests.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_UnitTest\UserRegistration.Tests\obj\Debug\UserRegistration.Tests.pdb
