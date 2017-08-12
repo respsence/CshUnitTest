@@ -53,6 +53,7 @@
     <Compile Include="01_AssertMethods.cs" />
     <Compile Include="02_CollectionAssertMethods.cs" />
     <Compile Include="03_StringAssertMethods.cs" />
+    <Compile Include="04_ExpectingExceptions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
