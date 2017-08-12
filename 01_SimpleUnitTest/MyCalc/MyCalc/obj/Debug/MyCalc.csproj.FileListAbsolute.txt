@@ -1,0 +1,5 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc\bin\Debug\MyCalc.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc\obj\Debug\MyCalc.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc\obj\Debug\MyCalc.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc\obj\Debug\MyCalc.pdb

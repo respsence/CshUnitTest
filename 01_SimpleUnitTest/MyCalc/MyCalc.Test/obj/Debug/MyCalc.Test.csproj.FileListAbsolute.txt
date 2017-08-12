@@ -1,0 +1,8 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\bin\Debug\MyCalc.Test.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\bin\Debug\MyCalc.Test.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\bin\Debug\MyCalc.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\bin\Debug\MyCalc.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\obj\Debug\MyCalc.Test.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\obj\Debug\MyCalc.Test.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\01_SimpleUnitTest\MyCalc\MyCalc.Test\obj\Debug\MyCalc.Test.pdb
