@@ -1,0 +1,11 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\007_FactoryInjection\bin\Release\007_FactoryInjection.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\007_FactoryInjection\obj\Release\007_FactoryInjection.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\obj\Release\007_FactoryInjection.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\007_FactoryInjection.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\007_FactoryInjection.pdb
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\nunit.framework.dll
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\bin\Release\nunit.framework.xml
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\obj\Release\007_FactoryInjection.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\007_FactoryInjection\obj\Release\007_FactoryInjection.pdb

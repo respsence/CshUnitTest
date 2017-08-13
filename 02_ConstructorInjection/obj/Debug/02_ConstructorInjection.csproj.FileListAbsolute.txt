@@ -5,3 +5,4 @@ C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_ConstructorInjection\obj\Debug\
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_ConstructorInjection\obj\Debug\02_ConstructorInjection.pdb
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_ConstructorInjection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_ConstructorInjection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\02_ConstructorInjection\obj\Debug\02_ConstructorInjection.csprojResolveAssemblyReference.cache

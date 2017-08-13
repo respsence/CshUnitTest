@@ -1,0 +1,7 @@
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\bin\Release\004_InterfaceInjection.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\bin\Release\004_InterfaceInjection.pdb
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\obj\Release\004_InterfaceInjection.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\obj\Release\004_InterfaceInjection.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\004_InterfaceInjection\obj\Release\004_InterfaceInjection.pdb

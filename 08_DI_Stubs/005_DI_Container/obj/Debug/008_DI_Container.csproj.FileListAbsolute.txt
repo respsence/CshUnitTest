@@ -1,0 +1,2 @@
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\005_DI_Container\obj\Debug\005_DI_Container.pdb

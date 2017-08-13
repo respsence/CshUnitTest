@@ -1,1 +1,0 @@
-C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\DI_Stubs\bin\Debug\DI_Stubs.exe.config

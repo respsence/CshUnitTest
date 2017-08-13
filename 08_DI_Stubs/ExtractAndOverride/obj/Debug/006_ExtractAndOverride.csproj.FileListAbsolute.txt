@@ -1,0 +1,24 @@
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.exe.config
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.exe
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.pdb
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\bin\Debug\nunit.framework.dll
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\bin\Debug\nunit.framework.xml
+C:\Users\David\Documents\Courses\Test-Driven Developmet\Урок 2. Использование Stub-объектов\001_DI_Stubs\ExtractAndOverride\obj\Debug\006_ExtractAndOverride.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\ExtractAndOverride.pdb
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\nunit.framework.dll
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\nunit.framework.xml
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.exe
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.pdb
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Lessons\Unit Testing Fundamentals\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\006_ExtractAndOverride.csprojResolveAssemblyReference.cache
+D:\Lessons\Unit Test Fundamentals Video\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.exe
+D:\Lessons\Unit Test Fundamentals Video\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.pdb
+D:\torrent\Unit Тестирование C#\unit-testing-csharp-materials\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.exe
+D:\torrent\Unit Тестирование C#\unit-testing-csharp-materials\002 Stub Objects\001_DI_Stubs\ExtractAndOverride\obj\Debug\ExtractAndOverride.pdb
