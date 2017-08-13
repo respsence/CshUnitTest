@@ -13,3 +13,4 @@ C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\bin\Debug\DI_Stubs.exe
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\bin\Debug\DI_Stubs.pdb
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\obj\Debug\01_Problem.csprojResolveAssemblyReference.cache

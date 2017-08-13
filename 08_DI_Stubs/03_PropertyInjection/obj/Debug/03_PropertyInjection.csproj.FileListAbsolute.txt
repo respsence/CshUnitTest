@@ -1,0 +1,8 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\bin\Debug\03_PropertyInjection.exe.config
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\bin\Debug\03_PropertyInjection.exe
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\bin\Debug\03_PropertyInjection.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\obj\Debug\03_PropertyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\obj\Debug\03_PropertyInjection.exe
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\08_DI_Stubs\03_PropertyInjection\obj\Debug\03_PropertyInjection.pdb
