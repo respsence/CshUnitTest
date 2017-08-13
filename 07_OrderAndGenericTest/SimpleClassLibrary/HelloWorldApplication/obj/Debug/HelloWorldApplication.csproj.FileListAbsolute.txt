@@ -1,0 +1,6 @@
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe.config
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.exe
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\bin\Debug\HelloWorldApplication.pdb
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\obj\Debug\HelloWorldApplication.csprojResolveAssemblyReference.cache
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\obj\Debug\HelloWorldApplication.exe
+C:\Users\Owlet\Desktop\GiProjects\C# UnitTest\07_OrderAndGenericTest\SimpleClassLibrary\HelloWorldApplication\obj\Debug\HelloWorldApplication.pdb
